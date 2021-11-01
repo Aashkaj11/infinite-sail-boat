@@ -1,1 +1,1 @@
-# infinite-sail-boat
+# sailing-ship
